@@ -1,0 +1,3 @@
+[submodule "src/modules"]
+	path = src/modules
+	url = https://gitlab.wlza.net/web/modules.git
